@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image:linear-gradient(140deg, #82AAE3 0%, #91D8E4 50%, #BFEAF5 75%);
+    background-image:linear-gradient(150deg, #82AAE3 15%, #91D8E4 60%, #BFEAF5 75%);
     height: 100vh;
     width: 100%;
 }
